@@ -1,7 +1,6 @@
 site_name: My Docs
 plugins:
   - search
-  - codeinclude
 theme:
   name: 'material'
 markdown_extensions:
