@@ -17,7 +17,7 @@ You can add spectra from a chromatogram to a new or existing custom MS library (
     Tools**, click the **Library** tab.
 
 4.  In the **Manage** group, select an existing MS
-    library or create a new library (see Create a New MS Library ). In
+    library or create a new library (see [Create a New MS Library](#create-a-new-ms-library)). In
     the following example, spectra will be added to a library named
     `Library 1`, which currently does not
     contain any spectra.
@@ -137,6 +137,16 @@ and the best similarity to the original spectrum.
 		You can also export a spectrum from Chromeleon to the NIST MS Search program, and then use the NIST program to perform a library search (see Export a Spectrum to NIST MS Search).
 
 3. To modify the results, you can select different libraries and search criteria. Changes are applied immediately and the results list is updated. For details about selecting libraries and search criteria, see MS Library Screening. For details about the Ad Hoc Library Search window and the search results, see Ad Hoc Library Search.
+
+###Related Topics
+
+Filter the Ad Hoc Library Search Results Table
+
+[Create a New MS Library](#create-a-new-ms-library)
+
+[Add an MS Library](#add-ms-libraries-to-the-search-list)
+
+Display and Overlay Retention Time Spectra from 3D or MS Data
   
 ##Add MS Libraries to the Search List
 
