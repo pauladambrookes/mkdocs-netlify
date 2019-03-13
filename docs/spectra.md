@@ -19,7 +19,7 @@ You can add spectra from a chromatogram to a new or existing custom MS library (
 4.  In the **Manage** group, select an existing MS
     library or create a new library (see Create a New MS Library ). In
     the following example, spectra will be added to a library named
-    **Library 1**, which currently does not
+    `Library 1`, which currently does not
     contain any spectra.
 
 5.  To add the spectrum currently displayed in the mass spectral plot,
