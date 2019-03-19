@@ -1,7 +1,5 @@
 #Working with MS Libraries
 
----
-
 ## Add Spectra to an MS Library
 
 You can add spectra from a chromatogram to a new or existing custom MS library (an MS library created in Chromeleon).
@@ -161,6 +159,8 @@ library search, including:
 
 The list in the following example contains one library of each type, in
 the order described above.
+
+![MS Library](images/MSLibrarySearchList.png)
 
 ###To manually add a NIST library
 
