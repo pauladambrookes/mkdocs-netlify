@@ -174,11 +174,7 @@ the order described above.
     select individually from peaks on a chromatogram plot, go to the Ad
     Hoc Library Search window.
 
-2.  	Under **MS libraries to be searched in**,
-    click **Add** and browse to the folder that
-    contains the NIST library. The NIST library can be located on the
-    local PC or on a network drive. Select the library folder and click
-    **OK**.
+2.  Under **MS libraries to be searched in**, click **Add** and browse to the folder that contains the NIST library. The NIST library can be located on the local PC or on a network drive. Select the library folder and click **OK**.
 
 !!! tip
 	To include a library on the MS Library Screening page and in an Ad Hoc Library Search window, add it separately to each.
@@ -186,4 +182,3 @@ the order described above.
 ###Related Topics
 
 Ad Hoc Library Search
-
