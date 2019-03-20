@@ -103,7 +103,7 @@ spectrum displayed on a mass spectral plot. This is referred to as an
 "ad hoc" search.
 
 !!! note
-	You can also export a spectrum from Chromeleon to the NIST MS Search program, and then use the NIST program to perform a library search (see Export a Spectrum to NIST MS Search).
+	You can also export a spectrum from Chromeleon to the NIST MS Search program, and then use the NIST program to perform a library search (see [Export a Spectrum to NIST MS Search](#export-a-spectrum-to-nist-ms-search)).
 
 ###To find spectra in an MS library
 
@@ -132,7 +132,7 @@ matching spectra (hits). The first spectrum listed has the highest match
 and the best similarity to the original spectrum.
 
 	!!! note
-		You can also export a spectrum from Chromeleon to the NIST MS Search program, and then use the NIST program to perform a library search (see Export a Spectrum to NIST MS Search).
+		You can also export a spectrum from Chromeleon to the NIST MS Search program, and then use the NIST program to perform a library search (see [Export a Spectrum to NIST MS Search](#export-a-spectrum-to-nist-ms-search)).
 
 3. To modify the results, you can select different libraries and search criteria. Changes are applied immediately and the results list is updated. For details about selecting libraries and search criteria, see MS Library Screening. For details about the Ad Hoc Library Search window and the search results, see Ad Hoc Library Search.
 
